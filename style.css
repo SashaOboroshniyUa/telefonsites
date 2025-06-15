@@ -1,0 +1,59 @@
+.tsb{
+    color: blue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.start{
+    text-align: center;   
+    font-family: system-ui;
+}
+
+.img{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.brothers{
+    border-radius: 30%;
+    width: 400px;
+}
+
+.links{
+    text-align: right;
+}
+
+.links a{
+    display: inline;
+    text-decoration: none;
+}
+
+.links a:hover{
+    font-size: 20px;
+    color: blue;
+    transition: 1.5s;
+}
+
+.about{
+    white-space: pre-line;
+}
+
+footer{
+    background-color: rgba(0, 0, 0, 0.836);
+    background-size: cover;
+    width: 100%;
+    min-height: 200px;
+}
+
+.footer{
+    text-align: center;
+}
+
+.footers{
+    text-align: center;
+}
+
+.footers a{
+    text-decoration: none;
+    color: black;
+}
